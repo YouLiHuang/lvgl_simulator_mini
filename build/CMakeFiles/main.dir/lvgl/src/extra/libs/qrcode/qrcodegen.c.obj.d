@@ -1,0 +1,27 @@
+CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj: \
+ I:\PCSimulator\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\qrcode\qrcodegen.c \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/assert.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/corecrt.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ I:/Toolchain/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.5.0/include-fixed/limits.h \
+ I:/Toolchain/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.5.0/include-fixed/syslimits.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/limits.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/stdlib.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/malloc.h \
+ I:/Toolchain/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.5.0/include/mm_malloc.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/errno.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/string.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
+ I:\PCSimulator\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\qrcode\qrcodegen.h \
+ I:/Toolchain/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.5.0/include/stdbool.h \
+ I:/Toolchain/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.5.0/include/stddef.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ I:/Toolchain/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.5.0/include/stdint.h \
+ I:/Toolchain/MinGW/mingw64/x86_64-w64-mingw32/include/stdint.h

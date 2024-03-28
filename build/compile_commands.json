@@ -1,0 +1,1634 @@
+[
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\main.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\main.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\mouse_cursor_icon.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\mouse_cursor_icon.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/mouse_cursor_icon.c",
+  "output": "CMakeFiles/main.dir/mouse_cursor_icon.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\GC9A01.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\GC9A01.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/GC9A01.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\ILI9341.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\ILI9341.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/ILI9341.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\R61581.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\R61581.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/R61581.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/R61581.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\SHARP_MIP.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\SHARP_MIP.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/SHARP_MIP.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\SSD1963.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\SSD1963.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/SSD1963.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\ST7565.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\ST7565.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/ST7565.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/ST7565.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\UC1610.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\UC1610.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/UC1610.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/UC1610.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\drm.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\drm.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/drm.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/drm.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\display\\fbdev.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\display\\fbdev.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/fbdev.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/display/fbdev.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\gtkdrv\\gtkdrv.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\gtkdrv\\gtkdrv.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/gtkdrv/gtkdrv.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\indev\\AD_touch.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\indev\\AD_touch.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/AD_touch.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\indev\\FT5406EE8.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\indev\\FT5406EE8.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/FT5406EE8.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\indev\\XPT2046.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\indev\\XPT2046.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/XPT2046.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\indev\\evdev.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\indev\\evdev.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/evdev.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/indev/evdev.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\indev\\libinput.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\indev\\libinput.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/libinput.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/indev/libinput.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\indev\\xkb.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\indev\\xkb.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/xkb.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/indev/xkb.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\sdl\\sdl.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\sdl\\sdl.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/sdl/sdl.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\sdl\\sdl_common.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\sdl\\sdl_common.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/sdl/sdl_common.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\sdl\\sdl_gpu.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\sdl\\sdl_gpu.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/sdl/sdl_gpu.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\wayland\\wayland.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\wayland\\wayland.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/wayland/wayland.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\win32drv\\win32drv.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\win32drv\\win32drv.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/win32drv/win32drv.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lv_drivers\\win_drv.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lv_drivers\\win_drv.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lv_drivers/win_drv.c",
+  "output": "CMakeFiles/main.dir/lv_drivers/win_drv.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_alpha16.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_alpha16.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_argb.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_argb.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_chroma_keyed.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_chroma_keyed.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_indexed16.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_indexed16.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_rgb.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_rgb.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_rgb565a8.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\img_benchmark_cogwheel_rgb565a8.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\lv_font_bechmark_montserrat_12_compr_az.c.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\lv_font_bechmark_montserrat_12_compr_az.c.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\lv_font_bechmark_montserrat_16_compr_az.c.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\lv_font_bechmark_montserrat_16_compr_az.c.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\assets\\lv_font_bechmark_montserrat_28_compr_az.c.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\assets\\lv_font_bechmark_montserrat_28_compr_az.c.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\benchmark\\lv_demo_benchmark.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\benchmark\\lv_demo_benchmark.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/lv_demo_benchmark.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\keypad_encoder\\lv_demo_keypad_encoder.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\keypad_encoder\\lv_demo_keypad_encoder.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_corner_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_corner_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_list_pause.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_list_pause.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_list_pause_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_list_pause_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_list_play.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_list_play.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_list_play_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_list_play_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_loop.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_loop.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_loop_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_loop_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_next.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_next.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_next_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_next_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_pause.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_pause.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_pause_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_pause_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_play.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_play.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_play_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_play_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_prev.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_prev.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_prev_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_prev_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_rnd.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_rnd.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_rnd_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_btn_rnd_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_corner_left.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_corner_left.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_corner_left_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_corner_left_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_corner_right.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_corner_right.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_corner_right_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_corner_right_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_1.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_1.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_1_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_1_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_2.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_2.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_2_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_2_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_3.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_3.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_3_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_cover_3_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_1.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_1.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_1_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_1_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_2.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_2.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_2_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_2_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_3.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_3.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_3_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_3_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_4.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_4.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_4_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_icon_4_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_list_border.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_list_border.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_list_border.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_list_border_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_list_border_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_logo.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_logo.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_logo.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_slider_knob.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_slider_knob.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_slider_knob_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_slider_knob_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_wave_bottom.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_wave_bottom.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_wave_bottom_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_wave_bottom_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_wave_top.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_wave_top.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\assets\\img_lv_demo_music_wave_top_large.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\assets\\img_lv_demo_music_wave_top_large.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\lv_demo_music.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\lv_demo_music.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/lv_demo_music.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\lv_demo_music_list.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\lv_demo_music_list.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/lv_demo_music_list.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\music\\lv_demo_music_main.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\music\\lv_demo_music_main.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/lv_demo_music_main.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\stress\\lv_demo_stress.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\stress\\lv_demo_stress.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/stress/lv_demo_stress.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\widgets\\assets\\img_clothes.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\widgets\\assets\\img_clothes.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/widgets/assets/img_clothes.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\widgets\\assets\\img_demo_widgets_avatar.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\widgets\\assets\\img_demo_widgets_avatar.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\widgets\\assets\\img_lvgl_logo.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\widgets\\assets\\img_lvgl_logo.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/widgets/assets/img_lvgl_logo.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\demos\\widgets\\lv_demo_widgets.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\demos\\widgets\\lv_demo_widgets.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/demos/widgets/lv_demo_widgets.c",
+  "output": "CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_disp.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_disp.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_disp.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_event.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_event.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_event.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_event.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_group.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_group.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_group.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_group.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_indev.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_indev.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_indev.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_indev_scroll.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_indev_scroll.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_indev_scroll.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_obj.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_obj.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_obj_class.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_obj_class.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_class.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_obj_draw.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_obj_draw.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_draw.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_obj_pos.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_obj_pos.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_pos.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_obj_scroll.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_obj_scroll.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_scroll.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_obj_style.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_obj_style.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_style.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_obj_style_gen.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_obj_style_gen.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_style_gen.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_obj_tree.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_obj_tree.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_tree.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_refr.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_refr.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_refr.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\core\\lv_theme.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\core\\lv_theme.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_theme.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\arm2d\\lv_gpu_arm2d.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\arm2d\\lv_gpu_arm2d.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/arm2d/lv_gpu_arm2d.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_arc.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_arc.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_arc.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_img.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_img.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_img.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_label.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_label.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_label.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_layer.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_layer.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_layer.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_line.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_line.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_line.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_mask.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_mask.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_mask.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_rect.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_rect.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_rect.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_transform.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_transform.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_transform.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_draw_triangle.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_draw_triangle.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_triangle.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_img_buf.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_img_buf.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_img_buf.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_img_cache.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_img_cache.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_img_cache.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\lv_img_decoder.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\lv_img_decoder.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_img_decoder.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\nxp\\lv_gpu_nxp.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\nxp\\lv_gpu_nxp.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/lv_gpu_nxp.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/nxp/lv_gpu_nxp.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\nxp\\pxp\\lv_draw_pxp_blend.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\nxp\\pxp\\lv_draw_pxp_blend.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\nxp\\pxp\\lv_gpu_nxp_pxp.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\nxp\\pxp\\lv_gpu_nxp_pxp.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\nxp\\pxp\\lv_gpu_nxp_pxp_osa.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\nxp\\pxp\\lv_gpu_nxp_pxp_osa.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\nxp\\vglite\\lv_draw_vglite_arc.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\nxp\\vglite\\lv_draw_vglite_arc.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\nxp\\vglite\\lv_draw_vglite_blend.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\nxp\\vglite\\lv_draw_vglite_blend.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\nxp\\vglite\\lv_draw_vglite_rect.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\nxp\\vglite\\lv_draw_vglite_rect.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\nxp\\vglite\\lv_gpu_nxp_vglite.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\nxp\\vglite\\lv_gpu_nxp_vglite.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_gpu_nxp_vglite.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_gpu_nxp_vglite.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_arc.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_arc.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_arc.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_bg.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_bg.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_bg.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_composite.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_composite.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_composite.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_img.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_img.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_img.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_label.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_label.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_label.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_layer.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_layer.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_layer.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_line.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_line.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_line.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_mask.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_mask.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_mask.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_polygon.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_polygon.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_rect.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_rect.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_rect.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_stack_blur.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_stack_blur.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_texture_cache.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_texture_cache.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_utils.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sdl\\lv_draw_sdl_utils.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_utils.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\stm32_dma2d\\lv_gpu_stm32_dma2d.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\stm32_dma2d\\lv_gpu_stm32_dma2d.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_arc.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_arc.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_arc.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_blend.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_blend.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_blend.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_dither.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_dither.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_gradient.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_gradient.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_img.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_img.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_img.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_layer.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_layer.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_layer.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_letter.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_letter.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_letter.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_line.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_line.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_line.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_polygon.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_polygon.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_polygon.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_rect.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_rect.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_rect.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\sw\\lv_draw_sw_transform.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\sw\\lv_draw_sw_transform.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_transform.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\draw\\swm341_dma2d\\lv_gpu_swm341_dma2d.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\draw\\swm341_dma2d\\lv_gpu_swm341_dma2d.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\layouts\\flex\\lv_flex.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\layouts\\flex\\lv_flex.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/layouts/flex/lv_flex.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\layouts\\grid\\lv_grid.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\layouts\\grid\\lv_grid.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/layouts/grid/lv_grid.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\bmp\\lv_bmp.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\bmp\\lv_bmp.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/bmp/lv_bmp.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\ffmpeg\\lv_ffmpeg.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\ffmpeg\\lv_ffmpeg.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\freetype\\lv_freetype.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\freetype\\lv_freetype.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/freetype/lv_freetype.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\fsdrv\\lv_fs_fatfs.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\fsdrv\\lv_fs_fatfs.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\fsdrv\\lv_fs_posix.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\fsdrv\\lv_fs_posix.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\fsdrv\\lv_fs_stdio.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\fsdrv\\lv_fs_stdio.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\fsdrv\\lv_fs_win32.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\fsdrv\\lv_fs_win32.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\gif\\gifdec.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\gif\\gifdec.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/gif/gifdec.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\gif\\lv_gif.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\gif\\lv_gif.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/gif/lv_gif.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\png\\lodepng.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\png\\lodepng.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/png/lodepng.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\png\\lv_png.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\png\\lv_png.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/png/lv_png.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\qrcode\\lv_qrcode.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\qrcode\\lv_qrcode.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\qrcode\\qrcodegen.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\qrcode\\qrcodegen.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/qrcode/qrcodegen.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\rlottie\\lv_rlottie.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\rlottie\\lv_rlottie.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\sjpg\\lv_sjpg.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\sjpg\\lv_sjpg.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\libs\\sjpg\\tjpgd.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\libs\\sjpg\\tjpgd.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/sjpg/tjpgd.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\lv_extra.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\lv_extra.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/lv_extra.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\others\\fragment\\lv_fragment.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\others\\fragment\\lv_fragment.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/fragment/lv_fragment.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\others\\fragment\\lv_fragment_manager.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\others\\fragment\\lv_fragment_manager.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/fragment/lv_fragment_manager.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\others\\gridnav\\lv_gridnav.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\others\\gridnav\\lv_gridnav.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\others\\ime\\lv_ime_pinyin.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\others\\ime\\lv_ime_pinyin.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\others\\imgfont\\lv_imgfont.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\others\\imgfont\\lv_imgfont.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\others\\monkey\\lv_monkey.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\others\\monkey\\lv_monkey.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/monkey/lv_monkey.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\others\\msg\\lv_msg.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\others\\msg\\lv_msg.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/msg/lv_msg.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\others\\snapshot\\lv_snapshot.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\others\\snapshot\\lv_snapshot.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\themes\\basic\\lv_theme_basic.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\themes\\basic\\lv_theme_basic.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\themes\\default\\lv_theme_default.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\themes\\default\\lv_theme_default.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/themes/default/lv_theme_default.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\themes\\mono\\lv_theme_mono.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\themes\\mono\\lv_theme_mono.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\animimg\\lv_animimg.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\animimg\\lv_animimg.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\calendar\\lv_calendar.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\calendar\\lv_calendar.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\calendar\\lv_calendar_header_arrow.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\calendar\\lv_calendar_header_arrow.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\calendar\\lv_calendar_header_dropdown.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\calendar\\lv_calendar_header_dropdown.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\chart\\lv_chart.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\chart\\lv_chart.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/chart/lv_chart.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\colorwheel\\lv_colorwheel.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\colorwheel\\lv_colorwheel.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\imgbtn\\lv_imgbtn.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\imgbtn\\lv_imgbtn.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\keyboard\\lv_keyboard.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\keyboard\\lv_keyboard.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\led\\lv_led.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\led\\lv_led.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/led/lv_led.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\list\\lv_list.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\list\\lv_list.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/list/lv_list.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\menu\\lv_menu.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\menu\\lv_menu.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/menu/lv_menu.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\meter\\lv_meter.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\meter\\lv_meter.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/meter/lv_meter.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\msgbox\\lv_msgbox.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\msgbox\\lv_msgbox.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\span\\lv_span.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\span\\lv_span.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/span/lv_span.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\spinbox\\lv_spinbox.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\spinbox\\lv_spinbox.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\spinner\\lv_spinner.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\spinner\\lv_spinner.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\tabview\\lv_tabview.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\tabview\\lv_tabview.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\tileview\\lv_tileview.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\tileview\\lv_tileview.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\extra\\widgets\\win\\lv_win.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\extra\\widgets\\win\\lv_win.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/win/lv_win.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_dejavu_16_persian_hebrew.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_dejavu_16_persian_hebrew.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_fmt_txt.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_fmt_txt.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_fmt_txt.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_loader.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_loader.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_loader.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_10.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_10.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_10.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_12.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_12.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_12.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_12_subpx.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_12_subpx.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_12_subpx.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_14.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_14.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_14.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_16.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_16.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_16.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_18.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_18.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_18.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_20.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_20.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_20.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_22.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_22.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_22.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_24.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_24.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_24.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_26.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_26.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_26.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_28.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_28.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_28.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_28_compressed.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_28_compressed.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_28_compressed.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_30.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_30.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_30.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_32.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_32.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_32.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_34.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_34.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_34.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_36.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_36.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_36.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_38.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_38.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_38.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_40.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_40.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_40.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_42.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_42.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_42.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_44.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_44.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_44.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_46.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_46.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_46.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_48.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_48.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_48.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_montserrat_8.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_montserrat_8.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_8.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_simsun_16_cjk.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_simsun_16_cjk.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_simsun_16_cjk.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_unscii_16.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_unscii_16.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_unscii_16.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\font\\lv_font_unscii_8.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\font\\lv_font_unscii_8.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_unscii_8.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\hal\\lv_hal_disp.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\hal\\lv_hal_disp.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/hal/lv_hal_disp.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\hal\\lv_hal_indev.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\hal\\lv_hal_indev.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/hal/lv_hal_indev.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\hal\\lv_hal_tick.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\hal\\lv_hal_tick.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/hal/lv_hal_tick.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_anim.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_anim.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_anim.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_anim_timeline.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_anim_timeline.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_anim_timeline.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_area.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_area.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_area.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_async.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_async.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_async.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_bidi.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_bidi.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_bidi.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_color.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_color.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_color.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_fs.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_fs.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_fs.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_gc.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_gc.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_gc.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_ll.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_ll.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_ll.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_log.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_log.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_log.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_lru.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_lru.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_lru.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_math.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_math.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_math.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_mem.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_mem.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_mem.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_printf.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_printf.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_printf.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_style.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_style.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_style.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_style_gen.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_style_gen.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_style_gen.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_templ.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_templ.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_templ.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_timer.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_timer.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_timer.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_tlsf.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_tlsf.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_tlsf.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_txt.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_txt.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_txt.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_txt_ap.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_txt_ap.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_txt_ap.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\misc\\lv_utils.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\misc\\lv_utils.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_utils.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_arc.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_arc.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_arc.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_bar.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_bar.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_bar.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_btn.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_btn.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_btn.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_btnmatrix.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_btnmatrix.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_btnmatrix.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_canvas.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_canvas.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_canvas.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_checkbox.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_checkbox.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_checkbox.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_dropdown.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_dropdown.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_dropdown.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_img.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_img.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_img.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_label.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_label.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_label.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_line.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_line.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_line.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_objx_templ.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_objx_templ.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_objx_templ.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_roller.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_roller.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_roller.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_slider.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_slider.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_slider.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_switch.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_switch.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_switch.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_table.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_table.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_table.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.obj"
+},
+{
+  "directory": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/build",
+  "command": "I:\\Toolchain\\MinGW\\mingw64\\bin\\gcc.exe -DLV_CONF_INCLUDE_SIMPLE @CMakeFiles/main.dir/includes_C.rsp -O3 -DNDEBUG -std=gnu11 -o CMakeFiles\\main.dir\\lvgl\\src\\widgets\\lv_textarea.c.obj -c I:\\PCSimulator\\lv_port_pc_eclipse-release-v8.3\\lvgl\\src\\widgets\\lv_textarea.c",
+  "file": "I:/PCSimulator/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_textarea.c",
+  "output": "CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.obj"
+}
+]
